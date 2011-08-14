@@ -43,6 +43,11 @@ Class Usage
 
  1. Kohana_Facebook::instance()->logged_in() - Tells you if the user is authenticated with facebook
  2. Kohana_Facebook::instance()->account()   - Gives you the raw user object provided by facebook_
+ 
+Fork Information
+---
+
+This repo was forked from zombors original repo.  I only forked it to update it to work with 3.2.  Any other updates done to this repo will be based on my need, or if people request changes, or submit issues, I may get to those as well.
 
 This is a work in progress, so expect changes and feel free to contribute
 ---
